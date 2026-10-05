@@ -1,0 +1,4 @@
+pyrofork
+tgcrypto
+aiohttp
+psycopg2-binary
